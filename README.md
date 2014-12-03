@@ -1,24 +1,25 @@
-#IntroToUnity
+#Intro To Unity
 Author(s): Nathalie Goh-Livorness || aka.ms/nathalie || @stopNgoh
-Original content can be found here: http://unity3d.com/learn/tutorials/projects/survival-shooter
+All downloadable assets and content can be found here: http://unity3d.com/learn/tutorials/projects/survival-shooter
 ============
-#Objective
+**Objective**
 This lab goes through using the Unity Game engine to build and ship your first game to Windows.
 
 **By the end of this lab you will be able to:**
-•Understand the Unity interface
-•Set up a 3d environment in Unity
-•Build and run your game to all platforms
-01 - SETTING UP THE ENVIRONMENT 
-02 - ADDING THE PLAYER CHARACTER 
-03 - SETTING UP THE CAMERA 
-04 - ADDING THE FIRST ENEMY
+* Understand the Unity interface
+* Set up a 3d environment in Unity
+* Build and run your game to all platforms
 
-#Requirements
-•Visual Studio for Unity - https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2
-•Unity 4.5.5 or higher - https://unity3d.com/unity/download
+1. SETTING UP THE ENVIRONMENT 
+2. ADDING THE PLAYER CHARACTER 
+3. SETTING UP THE CAMERA 
+4. ADDING THE FIRST ENEMY
 
-#Setup
+**Requirements**
+* Visual Studio for Unity - https://visualstudiogallery.msdn.microsoft.com/20b80b8c-659b-45ef-96c1-437828fe7cf2
+* Unity 4.5.5 or higher - https://unity3d.com/unity/download
+
+**Setup**
 Screenshot of VS plug in for Unity
 #Environment
 1.	Setup Editor Layout 2 by 3
