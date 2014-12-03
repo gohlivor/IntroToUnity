@@ -5,7 +5,7 @@ Original content can be found here: http://unity3d.com/learn/tutorials/projects/
 #Objective
 This lab goes through using the Unity Game engine to build and ship your first game to Windows.
 
-#By the end of this lab you will be able to:
+**By the end of this lab you will be able to:**
 •Understand the Unity interface
 •Set up a 3d environment in Unity
 •Build and run your game to all platforms
